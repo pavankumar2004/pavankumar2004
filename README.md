@@ -16,7 +16,7 @@ I'm a passionate **Software Developer** specializing in **Web Development**, **B
 
 ### Noteworthy Projects 🚀
 - **[Transcribe Digital](https://transcribe.digital/)**: Audio transcription site using Flask, React, and Whisper API
-- **Real-time Coding Collaboration Platform**: Built with WebRTC, WebSockets, PeerJS
+- **[Real-time Coding Collaboration Platform](https://github.com/pavankumar2004/livecoding)**: Built with WebRTC, WebSockets, PeerJS
 - **Decentralized Art Marketplace**: Solidity & React-based NFT platform
 - **Cryptocurrency Wallet**: Securely send, receive, and store crypto with real-time updates
 
