@@ -1,7 +1,7 @@
 # Hi, I'm Pavan Kumar S G 👋
 
 ### About Me
-I'm a passionate **Software Developer** specializing in **Web Development**, **Blockchain**, and **Cloud Computing**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love turning complex problems into elegant solutions and building projects that make an impact.
+I'm a passionate freelance **Software Developer** specializing in **Web Development**, **Blockchain**, and **Cloud Computing**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects that make an impact.
 
 ---
 
