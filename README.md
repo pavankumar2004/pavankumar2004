@@ -28,10 +28,4 @@ I'm a passionate freelance **Software Developer** specializing in **Web Developm
 - **GitHub**: [pavankumar2004](https://github.com/pavankumar2004)
 - **Instagram**: [@pavan_s_g](https://www.instagram.com/pavan_s_g/)
 
----
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pavankumar2004&show_icons=true&theme=dark&hide=issues)
-
----
-
-_“Strive for progress, not perfection.”_
+_“Striving for progress, not perfection.”_
