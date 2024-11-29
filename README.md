@@ -7,10 +7,10 @@ I'm a passionate upcoming **Software Developer** specializing in **Web Developme
 
 ### Tech Stack 🛠️
 - **Languages**: Python, JavaScript, C++, Solidity, Java
-- **Web Dev**: Flask, Node.js, React.js, Angular
-- **Blockchain**: Ethereum, Web3.js, Solidity, DeFi
+- **Web Dev**: Flask, Node.js, React.js
+- **Blockchain**: Ethereum
 - **Cloud**: AWS, Google Cloud Platform
-- **Tools**: Git, Docker, Postman, Oracle SQL, MySQL
+- **Tools**: Git, Postman, Oracle SQL, MySQL
 
 ---
 
