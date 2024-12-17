@@ -1,7 +1,7 @@
-# Hi, I'm Pavan Kumar S G 👋
+# Hi, I'm Pavan Kumar S G 
 
 ### About Me
-I'm a passionate upcoming **Software Developer** specializing in **Web Development**, **Blockchain**, and **Cloud Computing**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects that make an impact.
+I'm a passionate upcoming **Software Developer** specializing in  **Blockchain**, and **Cloud Computing**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects.
 
 ---
 
@@ -14,7 +14,7 @@ I'm a passionate upcoming **Software Developer** specializing in **Web Developme
 
 ---
 
-### Noteworthy Projects 🚀
+### Projects 🚀
 - **[Transcribe Digital](https://transcribe.digital/)**: Audio transcription site using Flask, React, and Whisper API
 - **[Real-time Coding Collaboration Platform](https://github.com/pavankumar2004/livecoding)**: Built with WebRTC, WebSockets, PeerJS
 ### Ongoing Projects
@@ -29,4 +29,4 @@ I'm a passionate upcoming **Software Developer** specializing in **Web Developme
 - **GitHub**: [pavankumar2004](https://github.com/pavankumar2004)
 - **Instagram**: [@pavan_s_g](https://www.instagram.com/pavan_s_g/)
 
-_“Striving for progress, not perfection.”_
+
