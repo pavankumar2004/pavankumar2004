@@ -1,7 +1,7 @@
 # Hi, I'm Pavan Kumar S G 
 
 ### About Me
-I'm a passionate upcoming **Software Developer** specializing in  **Blockchain**, and **Cloud Computing**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects.
+I'm a passionate upcoming **Software Developer** specializing in  **Blockchain**, and **Software Development**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects.
 
 ---
 
@@ -9,7 +9,7 @@ I'm a passionate upcoming **Software Developer** specializing in  **Blockchain**
 - **Languages**: Python, JavaScript, C++, Solidity, Java
 - **Web Dev**: Flask, Node.js, React.js
 - **Blockchain**: Ethereum
-- **Cloud**: AWS, Google Cloud Platform
+- **Cloud**: Google Cloud Platform
 - **Tools**: Git, Postman, Oracle SQL, MySQL
 
 ---
