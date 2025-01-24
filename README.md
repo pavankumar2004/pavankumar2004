@@ -15,7 +15,7 @@ I'm a passionate upcoming **Software Developer** specializing in  **Blockchain**
 ---
 
 ### Projects 🚀  
-- **[MarinMotor](https://marinmotor.be/)**: Website for a Belgian garage, featuring a detailed showcase of services, vehicle inventory, and contact options, designed with a modern and responsive interface.  
+- **[marinmotor.be](https://marinmotor.be/)**: Website for a Belgian garage, featuring a detailed showcase of services, vehicle inventory, and contact options, designed with a modern and responsive interface.  
 - **[Transcribe Digital](https://transcribe.digital/)**: Audio transcription site using Flask, React, and Whisper API  
 - **[Real-time Coding Collaboration Platform](https://github.com/pavankumar2004/livecoding)**: Built with WebRTC, WebSockets, PeerJS  
 
