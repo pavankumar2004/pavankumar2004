@@ -5,8 +5,8 @@
 - I'm also a freelancer who built multiple projects for clients all around the world.
 - I'm exploring the space of web3 now.
 ---
-### Experience 🛠️
-- Involved in the development of **[transcribe.digital](https://transcribe.digital/)**
+### Experience 
+- Involved in the development of ** [transcribe.digital](https://transcribe.digital/)**
 ---
 
 ### Tech Stack 🛠️
@@ -25,7 +25,6 @@
 
 ### Ongoing Projects
 - **Decentralized Art Marketplace**: Solidity & React-based NFT platform
-- **Cryptocurrency Wallet**: Securely send, receive, and store crypto with real-time updates
 
 ---
 
