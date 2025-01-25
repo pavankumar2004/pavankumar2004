@@ -4,7 +4,9 @@
 - I'm a passionate upcoming **Software Developer** specializing in **Software Development**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects.
 - I'm also a freelancer who built multiple projects for clients all around the world.
 - I'm exploring the space of web3 now.
-
+---
+### Experience 🛠️
+- Involved in the development of **[transcribe.digital](https://transcribe.digital/)**
 ---
 
 ### Tech Stack 🛠️
