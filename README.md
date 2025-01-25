@@ -20,7 +20,7 @@
 
 ### Projects 🚀  
 - **[marinmotor.be](https://marinmotor.be/)**: Website for a Belgian garage, featuring a detailed showcase of services, vehicle inventory, and contact options, designed with a modern and responsive interface.  
-- **[transcribe.digital](https://transcribe.digital/)**: Worked on a Audio transcription site for **[crushgrowth.com](https://crushgrowth.com)** using Flask, React, and deployed whisper model in a virtual private server.  
+- **[transcribe.digital](https://transcribe.digital/)**: Worked on a Audio transcription site for **[crushgrowth.com](https://crushgrowth.com)** using Flask, React, and deployed and configured whisper model in a virtual private server.  
 - **[Real-time Coding Collaboration Platform](https://github.com/pavankumar2004/livecoding)**: Built with WebRTC, WebSockets, PeerJS  
 
 ### Ongoing Projects
