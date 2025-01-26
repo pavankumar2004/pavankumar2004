@@ -6,7 +6,7 @@
 - I'm exploring the space of web3 now.
 ---
 ### Experience 
-- Involved in the development of ** [transcribe.digital](https://transcribe.digital/)**
+- Involved in the development of [transcribe.digital](https://transcribe.digital/)
 ---
 
 ### Tech Stack 🛠️
