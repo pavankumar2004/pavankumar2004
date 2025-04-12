@@ -7,7 +7,7 @@
 ---
 ### Experience 
 - Involved in the development of [transcribe.digital](https://transcribe.digital/)
-- Contributing to [Heyform.net](https://heyform.net/)
+- Contributing to [Heyforms.net](https://heyforms.net/)
 ---
 
 ### Tech Stack 🛠️
