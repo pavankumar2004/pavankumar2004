@@ -7,11 +7,12 @@
 ---
 ### Experience 
 - Involved in the development of [transcribe.digital](https://transcribe.digital/)
+- Contributing to [Heyform.net](https://heyform.net/)
 ---
 
 ### Tech Stack 🛠️
-- **Languages**: Python, JavaScript, C++, Solidity, Java
-- **Web Dev**: Flask, Node.js, React.js
+- **Languages**: Python, JavaScript, TypeScript, C++, Solidity, Java
+- **Web Dev**: Flask, Nodejs, Reactjs, Nestjs
 - **Blockchain**: Ethereum
 - **Cloud**: Google Cloud Platform
 - **Tools**: Git, Postman, Oracle SQL, MySQL
