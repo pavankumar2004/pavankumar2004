@@ -20,7 +20,8 @@
 ---
 
 ### Projects 🚀  
-- **[marinmotor.be](https://marinmotor.be/)**: Website for a Belgian garage, featuring a detailed showcase of services, vehicle inventory, and contact options, designed with a modern and responsive interface.  
+- **[marinmotor.be](https://marinmotor.be/)**: Website for a Belgian garage, featuring a detailed showcase of services, vehicle inventory, and contact options, designed with a modern and responsive interface.
+- **[travelwithai](https://travelwithai.vercel.app): AI-powered travel planner that helps users discover destinations, plan itineraries, and get personalized travel recommendations, built with a sleek, user-friendly, and responsive interface.
 - **[transcribe.digital](https://transcribe.digital/)**: Worked on a Audio transcription site for **[crushgrowth.com](https://crushgrowth.com)** using Flask, React, and deployed and configured whisper model in a virtual private server.  
 - **[Real-time Coding Collaboration Platform](https://github.com/pavankumar2004/livecoding)**: Built with WebRTC, WebSockets, PeerJS  
 
