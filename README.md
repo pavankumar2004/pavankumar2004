@@ -3,7 +3,7 @@
 ### About Me
 - I'm a passionate upcoming **Software Developer** specializing in **Blockchain, Website and Software Development**. Currently, I'm pursuing an Integrated M.Sc. in **Theoretical Computer Science** at PSG College of Technology. I love building projects.
 - I'm also a freelancer who built multiple projects for clients all around the world.
-- I'm exploring the space of web3 now.
+- I'm exploring the space of web3 and ai agents(MCP) now.
 ---
 ### Experience 
 - Involved in the development of [transcribe.digital](https://transcribe.digital/) ,[travelwithai](https://travelwithai.vercel.app) and more.
