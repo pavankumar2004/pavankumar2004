@@ -6,7 +6,7 @@
 - I'm exploring the space of web3 and ai agents(MCP) now.
 ---
 ### Experience 
-- Involved in the development of [transcribe.digital](https://transcribe.digital/) ,[travelwithai](https://travelwithai.vercel.app) and more.
+- Involved in the development of [Teach.droptools.site](https://teach.droptools.site/) , [transcribe.digital](https://transcribe.digital/) , [travelwithai](https://travelwithai.vercel.app) and more.
 - Contributing to heyforms
 ---
 
