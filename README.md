@@ -32,7 +32,6 @@
 
 ### Let's Connect!
 - **Email**: [22pt22@psgtech.ac.in](mailto:22pt22@psgtech.ac.in)
-- **LinkedIn**: [linkedin.com/in/pavankumar2004](https://www.linkedin.com/in/pavankumar-s-g/)
 - **GitHub**: [pavankumar2004](https://github.com/pavankumar2004)
 - **Instagram**: [@pavan_s_g](https://www.instagram.com/pavan_s_g/)
 
