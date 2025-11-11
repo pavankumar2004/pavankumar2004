@@ -1,7 +1,7 @@
 # Hi, I'm Pavan Kumar S G 
 
 ### About Me
-- I'm a passionate **Software Developer** specializing in **Blockchain, Game, Website and Software Development**. Currently, I'm pursuing an Integrated M.S. in **Theoretical Computer Science**. I love building projects.
+- I'm a passionate **Software Developer** specializing in **Blockchain and Software Development**. Currently, I'm pursuing an Integrated M.S. in **Theoretical Computer Science**. I love building projects.
 - I'm also a freelancer who built multiple projects for clients all around the world.
 - I'm exploring the space of web3 and ai agents(MCP) now.
 ---
